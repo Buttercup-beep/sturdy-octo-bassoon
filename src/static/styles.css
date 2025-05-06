@@ -93,6 +93,26 @@ section h3 {
   color: #333; /* Darker text color for better visibility */
 }
 
+.participant {
+  background-color: #e3f2fd; /* Couleur de fond douce */
+  border: 1px solid #90caf9; /* Bordure légère */
+  border-radius: 8px; /* Coins arrondis */
+  padding: 15px; /* Espacement interne */
+  margin-bottom: 15px; /* Espacement entre les participants */
+  font-size: 16px; /* Taille de police */
+  color: #0d47a1; /* Couleur du texte */
+}
+
+.participant h4 {
+  margin-bottom: 10px; /* Espacement sous le titre */
+  color: #1565c0; /* Couleur du titre */
+}
+
+.participant p {
+  margin-bottom: 8px; /* Espacement entre les paragraphes */
+  line-height: 1.5; /* Lisibilité améliorée */
+}
+
 .form-group {
   margin-bottom: 15px;
 }
